@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  background-color: rgb(7, 7, 94);
+  color: white;
+  padding: 8px;
+}
+
+.home{
+  text-align: left;
+  font-size: xx-large;
+  font-weight: 700;
+}
+
+.compa{
+  background-color: aqua;
+  padding: 5px;
+  margin: 8px;
+}
+
+.compb{
+  background-color: red;
+  padding: 5px;
+  margin: 8px;
+}
+
+.compc{
+  background-color: green;
+  padding: 5px;
+  margin: 8px;
+}
